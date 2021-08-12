@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Simple react project for begginers to learn about components and api.Very simple interface.
+
+visit : https://musing-mccarthy-33b707.netlify.app/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
